@@ -1,0 +1,27 @@
+{
+  "name": "nas",
+  "version": "0.0.1",
+  "description": "nas coomy",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coomysky/nas-coomy.git"
+  },
+  "keywords": [
+    "coomy"
+  ],
+  "author": "coomy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coomysky/nas-coomy/issues"
+  },
+  "homepage": "https://github.com/coomysky/nas-coomy",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-ruby-sass": "^1.4.0",
+    "gulp-inject": "^1.5.0",
+    "browser-sync": "^2.8.0"
+  }
+}
